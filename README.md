@@ -1,2 +1,2 @@
-# thunderdynamics.github.io
-Thunder Dynamics Website
+# thunderdynamics.github.io (thunderdynamics.biz)
+Thunder Dynamics Website (canonical)
